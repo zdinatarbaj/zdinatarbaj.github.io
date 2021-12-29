@@ -2,8 +2,8 @@
 {
   "show": true,
   "CheckR": true,
-  "com": false,
-  "published": false,
+  "com": true,
+  "published": true,
   "version": 1,
   "newAppLink": "com.Trailmix.LoveAndPiesMerges",
   
@@ -37,10 +37,10 @@
   "onBackOpenAds": true,
   "admbNbOrB": "nb",
   
-  "unity": false, 
+  "unity": true, 
   "adsunity": {
     "unity_ids": "3478504",
-    "unity_id": "3667089s",
+    "unity_id": "3667089",
     "unity_inters": "video"
   }
 }
